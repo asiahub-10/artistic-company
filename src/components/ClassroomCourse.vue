@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container">
+    <div class="container" id="classCourse">
       <div class="row">
         <div class="col-sm-12">
           <h2 class="text-center text-info mb-5">Classroom Courses</h2>

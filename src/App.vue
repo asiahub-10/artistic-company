@@ -1,12 +1,12 @@
 <template>
   <div id="app">
-    <my-header/>
+    <my-header id="head"/>
     <intro/>
-    <about/>
+    <about id="about"/>
     <course/>
-    <sale-point/>
-    <news/>
-    <contact/>
+    <sale-point id="salePoint"/>
+    <news id="news"/>
+    <contact id="contact"/>
     <my-footer/>
     <!--<div class="my-5 py-5"></div>-->
   </div>

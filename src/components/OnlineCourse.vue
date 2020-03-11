@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container">
+    <div class="container" id="onlineCourse">
       <div class="row">
         <div class="col-sm-12 my-5">
           <h2 class="text-center mb-5 text-info">Online Courses</h2>
